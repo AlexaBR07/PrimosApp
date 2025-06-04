@@ -1,5 +1,5 @@
 import pytest
-from src.primos import filtrar_primos, es_primo
+from primos import filtrar_primos, es_primo
 
 class TestPrimos:
     def test_es_primo(self):
